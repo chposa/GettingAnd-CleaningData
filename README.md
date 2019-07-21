@@ -1,5 +1,5 @@
 # Getting And Cleaning Data
-#Assignment
+# Assignment
 
 First Downloaded the zip file and unzipped to the working directory
 
