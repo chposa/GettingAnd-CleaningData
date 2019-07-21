@@ -1,4 +1,4 @@
-# GettingAnd-CleaningData
+# Getting And Cleaning Data
 #Assignment
 
 First Downloaded the zip file and unzipped to the working directory
